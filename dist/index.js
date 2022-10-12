@@ -1,0 +1,1 @@
+"use strict";(()=>{var t,n=((t=document.getElementById("current-box_link"))==null?void 0:t.getAttribute("href"))||"",o=document.getElementsByClassName("button-cta cta outline-new");for(let e of o)e.setAttribute("href",n);})();
